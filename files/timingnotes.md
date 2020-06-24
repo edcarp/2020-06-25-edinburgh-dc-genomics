@@ -11,13 +11,13 @@ Goal is to have realistic *clock* timings for day 1.
 # Morning DC genomics.
 
 
-- 9am start.
-- 9:05 - 9:20am Giacomo intro
-- 9:20 - 9:30am Edward presentation (who I am, why carpentries, etc).
+- 09:00 start.
+- 09:05 - 09:20 **Giacomo** welcome to wrokshop, code of conduct, edcarp.
+- 09:20 - 09:30 **Edward** presentation (who I am, why carpentries, etc).
 ....to be edited.
 
-- 11:00-1230 intro to commandline
-- 1230-1330 lunch
-- 1330-1500 intro to commandline (contd.)
-- 1500-1530 coffee break
-- (1530+ Vasilis)
+- 11:00 - 12:30 intro to commandline
+- 12:30 - 13:30 lunch
+- 13:30 - 15:00 intro to commandline (contd.)
+- 15:00 - 15:30 coffee break
+- 15:30 - ... **Vasilis**
